@@ -1,0 +1,45 @@
+body { 
+background-image: url('https://shef.com/homemade-food/wp-content/uploads/62460e1038486f1fc22ce529_33726b86.jpg');
+background-size:cover;
+background-repeat: no-repeat;
+background-position: right top;
+}
+h1{
+color:brown;
+text-align: center;
+text-style: bold;
+}
+h2{
+color:brown;
+margin-top: 1.5em;s
+}
+
+.header {
+    background-color:rgb(69, 171, 175);
+    padding: 50px 20px;
+    background-size: cover;
+    background-position: center;
+}
+
+.header a {
+  float: left;
+  color:brown;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+}
+.header a.active {
+  background-color: hotpink;
+  color: white;
+}
+
+.header-right {
+  float: right;
+}
+  .header-right {
+    float: none;
+  }
+}
